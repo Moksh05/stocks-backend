@@ -59,13 +59,13 @@ This repository contains the backend logic for a real-time stock trading applica
 
 ## 🔗 Related Repositories
 
-- **🖥 Frontend Repository:** [[Insert frontend repo link here](https://github.com/Moksh05/stocks-frontend)]
-- **🔌 WebSocket Server:** [[Insert WebSocket repo link here](https://github.com/Moksh05/stocks-wss)]
+- **🖥 Frontend Repository:** [[CLick here](https://github.com/Moksh05/stocks-frontend)]
+- **🔌 WebSocket Server:** [[click here](https://github.com/Moksh05/stocks-wss)]
 
 ---
 
 ## 📽️ Demo Video
 
-Watch a full demo of the platform here: [[Insert project demo video link here](https://drive.google.com/file/d/10fpMmQsDQGQ1KLfmnIkQbeSUF07oP_R1/view?usp=sharing)]
+Watch a full demo of the platform here: [[click here](https://drive.google.com/file/d/10fpMmQsDQGQ1KLfmnIkQbeSUF07oP_R1/view?usp=sharing)]
 
 ---
